@@ -1,5 +1,15 @@
-have your say all contributions are welcome! 
+# CONTRIBUATIONS
+still no contribuations
 
-Please open an issue first to discuss the changes you want to make
+#Bug Reports
+None 
+#Bug Fixes
+None
 
-no matter the topic ..
+#Documentations Imporovments
+None 
+
+#Enhancements 
+None 
+
+# all ideas are welcome
